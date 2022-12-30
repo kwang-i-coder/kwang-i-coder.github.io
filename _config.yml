@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "kwang-i-coder"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "김회광"
 description              : "An amazing website."
 url                      : "https://kwang-i-coder.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "김회광"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "안녕하세요. 경희대학교 소프트웨어융합학과 재학 중인 학생입니다."
+  location         : "Seoul, KR"
+  email            : whekwang@khu.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
